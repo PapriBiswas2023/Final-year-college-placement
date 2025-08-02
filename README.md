@@ -45,6 +45,3 @@ Real-time interview simulation with voice
 Role-based access (Admin / HR / Student)
 
 
-
-## 📁 Folder Structure
-
